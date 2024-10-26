@@ -1,8 +1,9 @@
 {
   "name": "windust-nord-theme",
-  "displayName": "Nord Theme",
-  "description": "Nord Color Theme",
+  "displayName": "Nord Color Theme",
+  "description": "Another nord color theme for vscode by Windust",
   "publisher": "Windust",
+  "license":"GPL-3.0-only",
   "icon": "images/icon.png",
   "repository": {
         "type": "git",
@@ -15,6 +16,10 @@
   "categories": [
     "Themes"
   ],
+  "extensionKind": [
+		"ui",
+		"workspace"
+	],
   "contributes": {
     "themes": [
       {
