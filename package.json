@@ -3,11 +3,12 @@
   "displayName": "Nord Theme",
   "description": "Nord Color Theme",
   "publisher": "Windust",
+  "icon": "images/icon.png",
   "repository": {
         "type": "git",
         "url": "https://github.com/WindustH/nord-theme.git"
     },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.94.0"
   },
