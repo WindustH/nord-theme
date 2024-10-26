@@ -1,0 +1,22 @@
+{
+  "name": "windust-nord-theme",
+  "displayName": "Nord Theme",
+  "description": "Nord Color Theme",
+  "publisher": "Windust",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nord Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nord Theme-color-theme.json"
+      }
+    ]
+  }
+}
