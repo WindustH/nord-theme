@@ -2307,6 +2307,7 @@
 		"gitDecoration.renamedResourceForeground":"#88C0D0",
 		"gitDecoration.stageDeletedResourceForeground":"#B48EAD",
 		"gitDecoration.stageModifiedResourceForeground":"#81A1C1",
-		"gitDecoration.untrackedResourceForeground":"#EBCB8B"
+		"gitDecoration.untrackedResourceForeground":"#EBCB8B",
+		"inlineChatInput.placeholderForeground":"#4C566A"
 	}
 }
