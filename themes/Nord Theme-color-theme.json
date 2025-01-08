@@ -2337,7 +2337,7 @@
 		"notificationCenterHeader.foreground": "#D8DEE9",
 		"notificationToast.border": "#3B4252",
 		"textLink.activeForeground": "#8FBCBB",
-		"widget.shadow":"#D8DEE928",
+		"widget.shadow":"#0000001a",
 		"widget.border":"#3B4252"
 	}
 }
